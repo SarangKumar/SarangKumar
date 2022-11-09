@@ -1,32 +1,63 @@
-### Hi there, I'm Sarang Kumar 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Sarang.;I+love+open-source.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=800&height=50"></a>
+</p>
 
-## I'm a student at PES University
-- I'm currently learning C
-- I'm looking to collaborate with other content creators
-- 2022 Goal: Contribute more to Open Source Projects
+## :relaxed:I'm a student at PES University
+  - I'm currently learning ReactJS, Firebase :fire:
+  - I'm looking to collaborate with other content creators ✋
+  - 2022 Goal: Contribute more to Open Source Projects :octocat:
+  - 2023 Goal: Be a backend developer :persevere:
 
+---
+<!-- Stats -->
+### Statistics
 
-### Connect with me
-[<img align="left" alt="Sarang Kumar | Instagram" width = "22px"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">][instagram]
-[<img align="left" alt="Sarang Kumar | Linkedin" width = "22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">][linkedin]
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=SarangKumar&column=7&theme=radical&no-frame=true"/>
+    <br>
+    <br>
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SarangKumar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangKumar&theme=radical&hide_border=true">		  
+</p>
 
-<br/>
-<hr>
-<br/>
+<!-- Graph -->
+![Sarang's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=SarangKumar's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+<p align="center">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
+
+---
 
 ### Languages and Tools: 
-<img alt="HTML" width = "22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
-<img alt="CSS" width = "22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-<img alt="SASS" width = "22px" src="https://cdn-icons-png.flaticon.com/512/919/919831.png">
-<img alt="JS" width = "22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-<img alt="Python" width = "22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-<img alt="SQL" width = "22px" src="https://cdn-icons-png.flaticon.com/512/1265/1265531.png">
-<img alt="C" width = "20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-<img alt="PHP" width = "22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
+<p>
+<img alt="HTML" width="35px" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+<img alt="CSS" width="35px" src="https://img.icons8.com/color/48/null/css3.png"/>
+<img alt="SASS" width="35px" src="https://img.icons8.com/color/48/null/sass.png"/>
+<img alt="JS" width="35px" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+<img alt="node" width="35px" src="https://img.icons8.com/color/48/null/nodejs.png"/>
+<img alt="Tailwind" width="35px" src="https://img.icons8.com/color/48/null/tailwind_css.png"/>
+<img alt="Bootstrap" width="35px" src="https://img.icons8.com/color/48/null/bootstrap.png"/>
+<img alt="React" width="35px" src="https://img.icons8.com/color/48/null/react-native.png"/>
+<img alt="MongoDB" width="35px" src="https://img.icons8.com/color/48/null/mongodb.png"/>
+<img alt="MySQL" width="35px" src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
+<img alt="Express" width="35px" src="https://img.icons8.com/color/48/null/express-js.png"/>
+<img alt="C" width="35px" src="https://img.icons8.com/color/48/null/c-programming.png"/>
+<img alt="Python" width="35px" src="https://img.icons8.com/color/48/null/python--v1.png"/>  
+<img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+</p>
 
-<br/>
-<hr>
-<br/>
+---
+
+### Where to find me
+<p>
+<img align="left" alt="Sarang Kumar | Instagram" width = "22px"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+<img align="left" alt="Sarang Kumar | Linkedin" width = "22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+</p>
 
 [instagram]: https://www.instagram.com/sarang_kumar_04/?hl=en
 [linkedin]: https://www.linkedin.com/in/sarang-kumar-0a558b221/
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=SarangKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Sarang" />
+</p>
