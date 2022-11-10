@@ -17,17 +17,13 @@
     <br>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SarangKumar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangKumar&theme=radical&hide_border=true">		  
+    <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <!-- Graph -->
 ![Sarang's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=SarangKumar's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
-<p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
 ---
-
 ### Languages and Tools: 
 <p>
 <img alt="HTML" width="35px" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
@@ -51,13 +47,12 @@
 
 ### Where to find me
 <p>
-<img align="left" alt="Sarang Kumar | Instagram" width = "22px"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
-<img align="left" alt="Sarang Kumar | Linkedin" width = "22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+  <a href="https://www.instagram.com/sarang_kumar_04/"><img alt="Sarang Kumar | Instagram" width = "22px"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+  <a href="https://www.linkedin.com/in/sarang-kumar-0a558b221/"><img alt="Sarang Kumar | Linkedin" width = "22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="mailto:sarangkumar1578@gmail.com"><img alt = "Sarang Kumar | Mail" width="22px" src="https://img.icons8.com/color/48/null/gmail-new.png"/></a>
 </p>
 
-[instagram]: https://www.instagram.com/sarang_kumar_04/?hl=en
-[linkedin]: https://www.linkedin.com/in/sarang-kumar-0a558b221/
-
+---
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=SarangKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Sarang" />
 </p>
