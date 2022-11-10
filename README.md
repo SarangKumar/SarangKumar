@@ -13,8 +13,7 @@
 ### Statistics
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=SarangKumar&column=7&theme=radical&no-frame=true"/>
-    <br>
+    <img width=850 align="center" src="https://github-profile-trophy.vercel.app/?username=SarangKumar&column=7&theme=radical&no-frame=true"/>
     <br>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SarangKumar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangKumar&theme=radical&hide_border=true">		  
@@ -45,6 +44,7 @@
 <img alt="C" width="35px" src="https://img.icons8.com/color/48/null/c-programming.png"/>
 <img alt="Python" width="35px" src="https://img.icons8.com/color/48/null/python--v1.png"/>  
 <img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+<img alt="Figma" width="35px" src="https://img.icons8.com/color/48/null/figma--v1.png"/>
 </p>
 
 ---
