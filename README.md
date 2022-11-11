@@ -17,11 +17,11 @@
     <br>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SarangKumar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangKumar&theme=radical&hide_border=true">		  
-    <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <!-- Graph -->
-![Sarang's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=SarangKumar's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Sarang's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarangKumar&custom_title=SarangKumar's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ---
 ### Languages and Tools: 
