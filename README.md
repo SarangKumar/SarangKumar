@@ -17,7 +17,7 @@
     <br>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SarangKumar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SarangKumar&theme=radical&hide_border=true">		  
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 <!-- Graph -->
