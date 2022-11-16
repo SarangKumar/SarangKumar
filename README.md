@@ -5,8 +5,11 @@
 ## :relaxed:I'm a student at PES University
   - I'm currently learning ReactJS, Firebase :fire:
   - I'm looking to collaborate with other content creators ✋
+  - Currently working on building a twitter clone project 
   - 2022 Goal: Contribute more to Open Source Projects :octocat:
   - 2023 Goal: Be a backend developer :persevere:
+
+#### Do fork or star some of my repos :wink:
 
 ---
 <!-- Stats -->
