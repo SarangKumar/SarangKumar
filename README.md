@@ -44,6 +44,7 @@
 <img alt="Python" width="35px" src="https://img.icons8.com/color/48/null/python--v1.png"/>  
 <img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
 <img alt="Figma" width="35px" src="https://img.icons8.com/color/48/null/figma--v1.png"/>
+<img alt="Canva" width="35px" src="https://img.icons8.com/color/48/null/canva.png"/>
 </p>
 
 ---
