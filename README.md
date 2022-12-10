@@ -28,23 +28,46 @@
 
 ---
 ### Languages and Tools: 
+
+#### Frontend
 <p>
 <img alt="HTML" width="35px" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
 <img alt="CSS" width="35px" src="https://img.icons8.com/color/48/null/css3.png"/>
 <img alt="SASS" width="35px" src="https://img.icons8.com/color/48/null/sass.png"/>
-<img alt="JS" width="35px" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-<img alt="node" width="35px" src="https://img.icons8.com/color/48/null/nodejs.png"/>
 <img alt="Tailwind" width="35px" src="https://img.icons8.com/color/48/null/tailwind_css.png"/>
 <img alt="Bootstrap" width="35px" src="https://img.icons8.com/color/48/null/bootstrap.png"/>
 <img alt="React" width="35px" src="https://img.icons8.com/color/48/null/react-native.png"/>
+</p>
+
+#### Backend
+<p>
+<img alt="Express" width="35px" src="https://img.icons8.com/color/48/null/express-js.png"/>
+<img alt="node" width="35px" src="https://img.icons8.com/color/48/null/nodejs.png"/>
+</p>
+
+#### Database
+<p>
 <img alt="MongoDB" width="35px" src="https://img.icons8.com/color/48/null/mongodb.png"/>
 <img alt="MySQL" width="35px" src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
-<img alt="Express" width="35px" src="https://img.icons8.com/color/48/null/express-js.png"/>
-<img alt="C" width="35px" src="https://img.icons8.com/color/48/null/c-programming.png"/>
-<img alt="Python" width="35px" src="https://img.icons8.com/color/48/null/python--v1.png"/>  
-<img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+</p>
+  
+#### Design
+<p>
 <img alt="Figma" width="35px" src="https://img.icons8.com/color/48/null/figma--v1.png"/>
 <img alt="Canva" width="35px" src="https://img.icons8.com/color/48/null/canva.png"/>
+</p>
+
+#### Programming
+<p>
+<img alt="JS" width="35px" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+<img alt="C" width="35px" src="https://img.icons8.com/color/48/null/c-programming.png"/>
+<img alt="Python" width="35px" src="https://img.icons8.com/color/48/null/python--v1.png"/>  
+</p>
+
+#### Others
+<p>
+<img alt="Markdown" width="35px" src="https://img.icons8.com/color/48/null/markdown.png"/>
+<img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
 </p>
 
 ---
