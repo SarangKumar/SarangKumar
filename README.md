@@ -8,6 +8,7 @@
   - Currently making a guide on python
   - 2022 Goal: Contribute more to Open Source Projects :octocat:
   - 2023 Goal: Be a backend developer :persevere:
+  - Working on SVG Downloader
 
 #### Do fork or star some of my repos :wink:
 
