@@ -8,7 +8,6 @@
   - Currently making a guide on python
   - 2022 Goal: Contribute more to Open Source Projects :octocat:
   - 2023 Goal: Be a backend developer :persevere:
-  - I don't know what am I doing.
 
 
 #### Do fork or star some of my repos :wink:
