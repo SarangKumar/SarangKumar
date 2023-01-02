@@ -6,8 +6,8 @@
   - I'm currently learning ReactJS, Firebase :fire:
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
-  - 2022 Goal: Contribute more to Open Source Projects :octocat:
   - 2023 Goal: Be a backend developer :persevere:
+  - Learning TS
 
 
 #### Do fork or star some of my repos :wink:
