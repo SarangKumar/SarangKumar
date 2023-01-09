@@ -7,7 +7,7 @@
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
-  - Learning TS
+  - Learning TS and cpp
 
 
 #### Do fork or star some of my repos :wink:
