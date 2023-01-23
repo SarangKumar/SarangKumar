@@ -25,9 +25,10 @@
 </p>
 
 <!-- Graph -->
-![Sarang's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SarangKumar&custom_title=SarangKumar's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
----
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarangkumar&bg_color=141321&hide_border=true&point=true&line=F1E05A&radius=8&area=true&area_color=88c0d0&title_color=FE428E&color=FE428E" alt="Activity Graph">
+  
+  ---
 
 ### Languages and Tools: 
 
