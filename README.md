@@ -24,6 +24,10 @@
     <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+<!-- ![fs](https://github-readme-stats-eight-theta.vercel.app/api?username=SarangKumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
+![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarangKumar&layout=compact&langs_count=8&theme=algolia) -->
+
 <!-- Graph -->
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarangkumar&bg_color=141321&hide_border=true&point=true&line=F1E05A&radius=8&area=true&area_color=88c0d0&title_color=FE428E&color=FE428E" alt="Activity Graph">
