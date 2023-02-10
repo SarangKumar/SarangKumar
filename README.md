@@ -1,4 +1,4 @@
-<img align='center' src='./assets/GithubBanner.png' alt='githubBanner'>
+<img align='center' src='./assets/GitBanner.png' alt='githubBanner'>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Sarang.;I+love+open-source.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=800&height=50"></a>
