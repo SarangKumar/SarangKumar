@@ -11,6 +11,78 @@
 
 
 #### Do fork or star some of my repos :wink:
+<details >
+
+<summary>
+  <iframe src="https://giphy.com/embed/WodOtJNNNQEXRSSXp2" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen style="margin:-10px 5px"></iframe>
+      <h3 style="display:inline">Projects</h3>
+  </summary>
+
+
+<table>
+
+<tr>
+
+<!-- section 1 : gerua-->
+<td>
+<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
+    <summary>
+<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218036676-ed2b758b-7f08-4dd6-9637-17e76a0c31a6.png' alt='gerua-thumbnail'/>
+    </summary>
+<img style="width: 400px" alt='gerua color ui' src='https://user-images.githubusercontent.com/86056181/218022743-15cc6172-6450-4478-b3e9-dd98cb3e21b3.png' />
+    <p>
+    asdf 
+    </p>
+</details>
+</td>
+
+<td>
+<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
+    <summary>
+<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218036676-ed2b758b-7f08-4dd6-9637-17e76a0c31a6.png' alt='gerua-thumbnail'/>
+    </summary>
+<img style="width: 400px" alt='gerua color ui' src='https://user-images.githubusercontent.com/86056181/218022743-15cc6172-6450-4478-b3e9-dd98cb3e21b3.png' />
+    <p>
+    asdf 
+    </p>
+</details>
+</td>
+
+<td>
+<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
+    <summary>
+<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218036676-ed2b758b-7f08-4dd6-9637-17e76a0c31a6.png' alt='gerua-thumbnail'/>
+    </summary>
+<img style="width: 400px" alt='gerua color ui' src='https://user-images.githubusercontent.com/86056181/218022743-15cc6172-6450-4478-b3e9-dd98cb3e21b3.png' />
+    <p>
+    asdf 
+    </p>
+</details>
+</td>
+
+<tr>
+
+<td>
+<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
+    <summary>
+<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218036676-ed2b758b-7f08-4dd6-9637-17e76a0c31a6.png' alt='gerua-thumbnail'/>
+    </summary>
+<img style="width: 400px" alt='gerua color ui' src='https://user-images.githubusercontent.com/86056181/218022743-15cc6172-6450-4478-b3e9-dd98cb3e21b3.png' />
+    <p>
+    asdf 
+    </p>
+</details>
+</td>
+
+<tr>
+
+
+</tr>
+
+</table>
+
+</details>
+
 
 ---
 <!-- Stats -->
