@@ -12,95 +12,98 @@
 
 #### Do fork or star some of my repos :wink:
 
-<details >
+<!-- <style>
+.gif{
+margin:-10px 5px;
+width:50px;
+}
+  
+</style> -->
 
+<details >
 <summary>
-  <iframe src="https://giphy.com/embed/WodOtJNNNQEXRSSXp2" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen style="margin:-10px 5px"></iframe>
+  <img class="gif" src="./assets/project.gif" alt="Work ZZ"/>
       <h3 style="display:inline">Projects</h3>
   </summary>
 
-
 <table>
-
 <tr>
 
 <!-- section 1 : gerua-->
 <td>
-<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
-    <summary style="padding:10px;">
-<img style="width:400px" src='https://user-images.githubusercontent.com/86056181/218036676-ed2b758b-7f08-4dd6-9637-17e76a0c31a6.png' alt='gerua-thumbnail'/>
+<details>
+    <summary>
+<img src='./assets/gerua-menu.png' alt='gerua-thumbnail'/>
     </summary>
+    
+[Gerau Website](gerua.vercel.app)  
+[Gerau Repo](https://github.com/SarangKumar/ColorPalette-Gerua)
 
-[Gerau](gerua.vercel.app)    
-<p style="text-align: justify;text-justify: inter-word;width:400px">some description adable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem i</p>
-
-<img style="width: 400px" alt='gerua color ui' src='https://user-images.githubusercontent.com/86056181/218022743-15cc6172-6450-4478-b3e9-dd98cb3e21b3.png' />
+<p>A color-paletter website that is open to be used by developers and designers in there work.</p>
+<img alt='gerua color ui' src='./assets/gerua.png' />
 </details>
 </td>
 
-</details>
-</td>
-
-<!-- section 1 : gerua-->
+<!-- section 2 : coursurf -->
 <td>
-<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
-    <summary style="padding:10px;">
-<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218036977-8f4c0b33-b0e7-45dd-8512-e29e1d356a94.png' alt='coursurf-thumbnail'/>
+<details>
+    <summary>
+      <img src='./assets/coursurf-menu.png' alt='coursurf-thumbnail'/>
     </summary>
 
-[Coursurf](https://coursurf.vercel.app/)    
-<p style="  text-align: justify;text-justify: inter-word;width:400px;">some description adable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem i</p>
+[Coursurf](https://coursurf.vercel.app/)  
+[Coursurf Repo](https://github.com/SarangKumar/coursurf.courses)
 
-<img style="width: 400px" alt='coursurf' src='https://user-images.githubusercontent.com/86056181/218003015-cccf8278-f336-4008-a4de-676df8834736.png' />
+<p>A website that helps the user get the description of the course they want in a single go and their description.</p>
+<img alt='coursurf' src='./assets/coursurf.png' />
 </details>
 </td>
 
-</details>
-</td>
-
-<!-- section 1 : gerua-->
+<!-- section 3 : nex-->
 <td>
-<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
-    <summary style="padding:10px;">
-<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218037368-2f25f2e3-4d1d-4bf3-95ba-2e4918e47588.png' alt='nexhunt-thumbnail'/>
+<details>
+    <summary>
+<img src='./assets/nexhunt-menu.png' alt='nexhunt-thumbnail'/>
     </summary>
 
-[NexHunt](https://nex-hunt.vercel.app/)    
-<p style="text-align: justify;text-justify: inter-word;width:400px">some description adable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem i</p>
+[NexHunt Website](https://nex-hunt.vercel.app/)
+[NexHunt Repo](https://github.com/SarangKumar/NexHunt)
 
-<img style="width: 400px" alt='nexus' src='https://user-images.githubusercontent.com/86056181/218002969-fc7a4f4d-5fc5-411f-b299-de36af0c820d.png' />
-</details>
-</td>
-
+<p>A Site to be used to create an online competition mostly (scavenget hunt) with timer and login feature.</p>
+<img alt='nexus' src='./assets/nexus.png' />
 </details>
 </td>
 
 </tr>
 
 <tr>
-<!-- section 1 : gerua-->
+
+<!-- section 4 : gerua-->
 <td>
-<details style="border:3px solid #FEE715; border-radius: 10px; padding:10px; width: 400px">
-    <summary  style="padding:10px;">
-<img style="width: 400px" src='https://user-images.githubusercontent.com/86056181/218036676-ed2b758b-7f08-4dd6-9637-17e76a0c31a6.png' alt='gerua-thumbnail'/>
+<details>
+    <summary>
+<img src='./assets/gerua-menu.png' alt='gerua-thumbnail'/>
     </summary>
+    
+[Gerau Website](gerua.vercel.app)  
+[Gerau Repo](https://github.com/SarangKumar/ColorPalette-Gerua)
 
-[Gerau](gerua.vercel.app)    
-<p style="text-align: justify;text-justify: inter-word;width:400px;">some description adable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem i</p>
-
-<img style="width: 400px" alt='gerua color ui' src='https://user-images.githubusercontent.com/86056181/218022743-15cc6172-6450-4478-b3e9-dd98cb3e21b3.png' />
+<p A color-paletter website that is open to be used by developers and designers in there work.</p>
+<img alt='gerua color ui' src='./assets/gerua.png' />
 </details>
 </td>
 
-</details>
-</td>
-
+<td></td>
+<td></td>
 
 </tr>
 
 </table>
 
 </details>
+
+
+
 
 ---
 <!-- Stats -->
