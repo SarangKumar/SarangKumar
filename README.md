@@ -128,8 +128,8 @@ width:50px;
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarangkumar&bg_color=141321&hide_border=true&point=true&line=F1E05A&radius=8&area=true&area_color=88c0d0&title_color=FE428E&color=FE428E" alt="Activity Graph">
   
   ---
-
-### Languages and Tools: 
+<img class="gif" src="./assets/programming.gif" alt="Work ZZ" style="margin:-10px 5px;" height='50'/>
+<h2 style='display:inline;'>Languages and Tools:</h2>
 
 <!-- Web dev -->
 <table>
