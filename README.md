@@ -5,11 +5,11 @@
 </p>
 
 ## :relaxed:I'm a student at PES University
-  - I'm currently learning ReactJS, Firebase :fire:
+  - I'm currently learning Firebase and Redux:fire:
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
-  - Learning Flask and selenium and redis
+  - Learning Flask and selenium and Redis
 
 #### Do fork or star some of my repos :wink:
 
@@ -167,7 +167,7 @@
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/></td>
-<td><img src="https://skillicons.dev/icons?i=firebase,gitlab,redux"/></td>
+<td><img src="https://skillicons.dev/icons?i=firebase,gitlab,redux,redis"/></td>
 </tr>
 </table>
 
