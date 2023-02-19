@@ -131,78 +131,46 @@ width:50px;
 
 ### Languages and Tools: 
 
-#### Frontend
-<p>
-<img alt="HTML" width="35px" src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
-<img alt="CSS" width="35px" src="https://img.icons8.com/color/48/null/css3.png"/>
-<img alt="SASS" width="35px" src="https://img.icons8.com/color/48/null/sass.png"/>
-<img alt="Tailwind" width="35px" src="https://img.icons8.com/color/48/null/tailwind_css.png"/>
-<img alt="Bootstrap" width="35px" src="https://img.icons8.com/color/48/null/bootstrap.png"/>
-<img alt="React" width="35px" src="https://img.icons8.com/color/48/null/react-native.png"/>
-</p>
 
-#### Backend
-<p>
-<img alt="Express" width="35px" src="https://img.icons8.com/color/48/null/express-js.png"/>
-<img alt="node" width="35px" src="https://img.icons8.com/color/48/null/nodejs.png"/>
-</p>
+<table>
+<tr><td align="center" colspan='4'><strong>Web Development</strong></td></tr>
+<tr>
+<td align="center" ><strong>Frontend</strong></td>
+<td align="center" ><strong>DataBase</strong></td>
+<td align="center" ><strong>Backend</strong></td>
+<td align="center" ><strong>Testing</strong></td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,mongodb,mysql,react,bootstrap"/></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,nodejs"/></td>
+<td><img src="https://skillicons.dev/icons?i=postman"/></td>
+</table>
 
-#### Database
-<p>
-<img alt="MongoDB" width="35px" src="https://img.icons8.com/color/48/null/mongodb.png"/>
-<img alt="MySQL" width="35px" src="https://img.icons8.com/color/48/null/mysql-logo.png"/>
-</p>
-  
-#### Design
-<p>
-<img alt="Figma" width="35px" src="https://img.icons8.com/color/48/null/figma--v1.png"/>
-<img alt="Canva" width="35px" src="https://img.icons8.com/color/48/null/canva.png"/>
-</p>
 
-#### Programming
-<p>
-<img alt="JS" width="35px" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
-<img alt="C" width="35px" src="https://img.icons8.com/color/48/null/c-programming.png"/>
-<img alt="Python" width="35px" src="https://img.icons8.com/color/48/null/python--v1.png"/>  
-</p>
 
-#### Others
-<p>
-<img alt="Markdown" width="35px" src="https://img.icons8.com/color/48/null/markdown.png"/>
-<img alt="VS Code" width="35px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
-</p>
+<table>
+<tr>
+<td align="center"><strong>React Libraries</strong></td>
+<td align="center"><strong>Dev & Production</strong></td>
+<td align="center"><strong>Utils</strong></td>
+<td align="center"><strong>Creative</strong></td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,emotion"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,netlify,vercel"/></td>
+<td><img src="https://skillicons.dev/icons?i=vscode,vite,bash"/></td>
+<td><img src="https://skillicons.dev/icons?i=codepen,replit,figma"/></td>
+</tr>
+</table>
 
----
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding:10px;"/>
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding:10px;"/> 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding:10px;"/>
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" />
-<img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="padding:10px;" />
-<!-- <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding:10px;" /> -->
-<!-- <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding:10px;" /> -->
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="padding:10px;"/>
-<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding:10px;" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding:10px;" />
-<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="padding:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="paddingleft:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding:10px;"/>
-<img align="left" alt="Dart" width='26px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style='padding:10px;'/>
-<img align="left" alt="C++" width='26px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style='padding:10px;' />
-
-<br />
-<br />
+<table>
+<tr><td align="center"><strong>Programming</strong></td></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/>
+</td></tr>
+</table>
 
 ### Where to find me
 <p>
