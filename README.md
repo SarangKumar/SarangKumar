@@ -11,17 +11,16 @@
   - 2023 Goal: Be a backend developer :persevere:
   - Learning Flask and selenium and redis
 
-
 #### Do fork or star some of my repos :wink:
 
-<!-- <style>
-.gif{
-margin:-10px 5px;
-width:50px;
-}
-  
-</style> -->
+<!-- Extra Badges -->
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=SarangKumar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Sarang" />
+<img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe/project/dd04c360-c575-4910-bedc-33f97e801989.svg?style=flat-square" alt="wakatime on profile">
+</p>
 
+
+<!-- Projects -->
 <details >
 <summary>
   <img class="gif" src="./assets/project.gif" alt="Work ZZ"/>
@@ -40,6 +39,7 @@ width:50px;
     
 [Gerau Website](gerua.vercel.app)  
 [Gerau Repo](https://github.com/SarangKumar/ColorPalette-Gerua)
+<img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe/project/521dbcab-7270-4130-8cb4-6373d6300673.svg?style=flat-square" alt="wakatime gerua"/>
 
 <p>A color-paletter website that is open to be used by developers and designers in there work.</p>
 <img alt='gerua color ui' src='./assets/gerua.png' />
@@ -70,6 +70,7 @@ width:50px;
 
 [NexHunt Website](https://nex-hunt.vercel.app/)
 [NexHunt Repo](https://github.com/SarangKumar/NexHunt)
+<img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe/project/3042a034-df58-4faf-8ee2-8172b3d3e69f.svg?style=flat-square" alt="wakatime nexhunt"/>
 
 <p>A Site to be used to create an online competition mostly (scavenget hunt) with timer and login feature.</p>
 <img alt='nexus' src='./assets/nexus.png' />
@@ -103,8 +104,6 @@ width:50px;
 </table>
 
 </details>
-
-
 
 
 ---
@@ -181,11 +180,4 @@ width:50px;
 <a href="https://www.instagram.com/sarang_kumar_04/"><img src='https://skillicons.dev/icons?i=instagram' alt='Instagram Icon'></a>
 <a href="https://www.linkedin.com/in/sarang-kumar-0a558b221/"><img src='https://skillicons.dev/icons?i=linkedin' alt='Instagram Icon'></a>
 <a href="mailto:sarangkumar1578@gmail.com"><img src='https://skillicons.dev/icons?i=gmail' alt='Gmail Icon'></a>
-</p>
-
----
-
-<!-- Extra Badges -->
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=SarangKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Sarang" />
 </p>
