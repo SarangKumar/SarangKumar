@@ -131,7 +131,7 @@ width:50px;
 
 ### Languages and Tools: 
 
-
+<!-- Web dev -->
 <table>
 <tr><td align="center" colspan='4'><strong>Web Development</strong></td></tr>
 <tr>
@@ -141,14 +141,14 @@ width:50px;
 <td align="center" ><strong>Testing</strong></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,mongodb,mysql,react,bootstrap"/></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,nextjs"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
-<td><img src="https://skillicons.dev/icons?i=nextjs,nodejs"/></td>
+<td><img src="https://skillicons.dev/icons?i=express,nodejs,pug"/></td>
 <td><img src="https://skillicons.dev/icons?i=postman"/></td>
 </table>
 
 
-
+<!-- React Libraries, Dev & Prod,Utils-->
 <table>
 <tr>
 <td align="center"><strong>React Libraries</strong></td>
@@ -157,19 +157,23 @@ width:50px;
 <td align="center"><strong>Creative</strong></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,emotion"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,emotion,materialui"/></td>
 <td><img src="https://skillicons.dev/icons?i=git,github,netlify,vercel"/></td>
-<td><img src="https://skillicons.dev/icons?i=vscode,vite,bash"/></td>
+<td><img src="https://skillicons.dev/icons?i=vscode,vite,bash,linux"/></td>
 <td><img src="https://skillicons.dev/icons?i=codepen,replit,figma"/></td>
 </tr>
 </table>
 
-
+<!-- Programming and Learning -->
 <table>
-<tr><td align="center"><strong>Programming</strong></td></tr>
-<tr><td>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/>
-</td></tr>
+<tr>
+<td align="center"><strong>Programming</strong></td>
+<td align="center"><strong>Learning</strong></td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/></td>
+<td><img src="https://skillicons.dev/icons?i=firebase,gitlab,redux"/></td>
+</tr>
 </table>
 
 ### Where to find me
