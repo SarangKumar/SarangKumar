@@ -119,10 +119,6 @@ width:50px;
     <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangKumar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
-<!-- ![fs](https://github-readme-stats-eight-theta.vercel.app/api?username=SarangKumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-
-![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarangKumar&layout=compact&langs_count=8&theme=algolia) -->
-
 <!-- Graph -->
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarangkumar&bg_color=141321&hide_border=true&point=true&line=F1E05A&radius=8&area=true&area_color=88c0d0&title_color=FE428E&color=FE428E" alt="Activity Graph">
@@ -176,14 +172,20 @@ width:50px;
 </tr>
 </table>
 
-### Where to find me
+---
+
+## Where to find me
+
+<!-- Social Media: Insta, Linkedin -->
 <p>
-  <a href="https://www.instagram.com/sarang_kumar_04/"><img alt="Sarang Kumar | Instagram" width = "22px"  src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
-  <a href="https://www.linkedin.com/in/sarang-kumar-0a558b221/"><img alt="Sarang Kumar | Linkedin" width = "22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="mailto:sarangkumar1578@gmail.com"><img alt = "Sarang Kumar | Mail" width="22px" src="https://img.icons8.com/color/48/null/gmail-new.png"/></a>
+<a href="https://www.instagram.com/sarang_kumar_04/"><img src='https://skillicons.dev/icons?i=instagram' alt='Instagram Icon'></a>
+<a href="https://www.linkedin.com/in/sarang-kumar-0a558b221/"><img src='https://skillicons.dev/icons?i=linkedin' alt='Instagram Icon'></a>
+<a href="mailto:sarangkumar1578@gmail.com"><img src='https://skillicons.dev/icons?i=gmail' alt='Gmail Icon'></a>
 </p>
 
 ---
+
+<!-- Extra Badges -->
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=SarangKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Sarang" />
 </p>
