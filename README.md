@@ -11,7 +11,7 @@
   - 2023 Goal: Be a backend developer :persevere:
   - Learning Flask and selenium and Redis
 
-#### Do fork or star some of my repos :wink:
+### Do fork and star some of my repos :wink:
 
 <!-- Extra Badges -->
 <p align="center"> 
