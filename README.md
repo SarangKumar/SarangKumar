@@ -9,7 +9,7 @@
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
-  - Learning Flask and selenium and Redis
+  - Learning Flask, pandas and Web3
 
 ### Do fork and star some of my repos :wink:
 
@@ -136,7 +136,7 @@
 <td align="center" ><strong>Testing</strong></td>
 </tr>
 <tr>
-<td><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,jquery,react,nextjs"/></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
 <td><img src="https://skillicons.dev/icons?i=express,nodejs,pug"/></td>
 <td><img src="https://skillicons.dev/icons?i=postman"/></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/></td>
-<td><img src="https://skillicons.dev/icons?i=firebase,gitlab,redux,redis"/></td>
+<td><img src="https://skillicons.dev/icons?i=gitlab,redux,redis"/></td>
 </tr>
 </table>
 
