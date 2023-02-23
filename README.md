@@ -121,6 +121,8 @@
 <!-- Graph -->
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sarangkumar&bg_color=141321&hide_border=true&point=true&line=F1E05A&radius=8&area=true&area_color=88c0d0&title_color=FE428E&color=FE428E" alt="Activity Graph">
+
+<img width='1100'src="https://wakatime.com/share/@SarangKumar/f5dcaec2-e42a-4e80-8290-f65e08eeb8c3.svg" />
   
   ---
 <img class="gif" src="./assets/programming.gif" alt="Work ZZ" style="margin:-10px 5px;" height='50'/>
