@@ -5,7 +5,6 @@
 </p>
 
 ## :relaxed:I'm a student at PES University
-  - I'm currently learning Firebase and Redux:fire:
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
