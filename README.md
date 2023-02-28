@@ -8,7 +8,7 @@
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
-  - Learning Flask, pandas and Web3
+  - Learning Flask, pandas, Web3 and animation using js
 
 ### Do fork and star some of my repos :wink:
 
