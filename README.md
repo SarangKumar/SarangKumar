@@ -139,7 +139,7 @@
 <tr>
 <td><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
-<td><img src="https://skillicons.dev/icons?i=express,nodejs,pug"/></td>
+<td><img src="https://skillicons.dev/icons?i=express,nodejs,pug,flask"/></td>
 <td><img src="https://skillicons.dev/icons?i=postman"/></td>
 </table>
 
