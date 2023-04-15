@@ -8,7 +8,7 @@
   - I'm looking to collaborate with other content creators ✋
   - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
-  - Learning Flask, pandas, Web3 and animation and firebase and developing chrome extension
+  - Learning Flask, pandas, Web3 and animation and firebase and developing chrome extensio
 
 ### Do fork and star some of my repos :wink:
 
