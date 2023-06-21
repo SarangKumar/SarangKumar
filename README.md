@@ -6,7 +6,6 @@
 
 ## :relaxed:I'm a student at PES University
   - I'm looking to collaborate with other content creators ✋
-  - Currently making a guide on python
   - 2023 Goal: Be a backend developer :persevere:
   - Learning Flask, pandas, Web3 and animation and firebase and developing chrome extension.
 
