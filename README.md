@@ -9,6 +9,10 @@
   - 2023 Goal: Be a backend developer :persevere:
   - Learning Flask, pandas, Web3, animation and next-auth with mongoose.
 
+### good news
+  - Have learned data fetching.
+  - Have learned mongoose.
+
 ### Do fork and star some of my repos :wink:
 
 <!-- Extra Badges -->
