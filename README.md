@@ -157,7 +157,7 @@
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,emotion,materialui"/></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,netlify,vercel"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vite"/></td>
 <td><img src="https://skillicons.dev/icons?i=vscode,vite,bash,linux"/></td>
 <td><img src="https://skillicons.dev/icons?i=codepen,replit,figma"/></td>
 </tr>
