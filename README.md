@@ -18,7 +18,7 @@
 <!-- Extra Badges -->
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=SarangKumar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Sarang" />
-<img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe/project/dd04c360-c575-4910-bedc-33f97e801989.svg?style=flat-square" alt="wakatime on profile">
+<img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe.svg" alt="wakatime on profile">
 </p>
 
 
