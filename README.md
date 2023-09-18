@@ -167,10 +167,12 @@
 <table>
 <tr>
 <td align="center"><strong>Programming</strong></td>
+<td align="center"><strong>Python</strong></td>
 <td align="center"><strong>Learning</strong></td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/></td>
+<td><img src="https://skillicons.dev/icons?i=python,flask,fastapi,pug"/></td>
 <td><img src="https://skillicons.dev/icons?i=gitlab,redux,redis"/></td>
 </tr>
 </table>
