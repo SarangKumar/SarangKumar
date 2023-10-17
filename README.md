@@ -14,7 +14,6 @@
   - Have learned data fetching.
   - Have learned mongoose.
   - I am now a **SME**
-  - IO is over 🥲
 
 ### Do fork and star some of my repos :wink:
 
