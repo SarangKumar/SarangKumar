@@ -8,8 +8,7 @@
   - I'm looking to collaborate with other content creators ✋
   - 2023 Goal: Be a backend developer :persevere:
   - Learning Flask, pandas, Web3, animation and next-auth with mongoose.
-  - I have been a SME 😎
-
+  - 
 ### good news
   - Have learned data fetching.
   - Have learned mongoose.
