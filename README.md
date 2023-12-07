@@ -142,7 +142,7 @@
 <tr>
 <td><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs"/></td>
 <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
-<td><img src="https://skillicons.dev/icons?i=express,nodejs,pug,flask"/></td>
+<td><img src="https://skillicons.dev/icons?i=express,nodejs,pug,flask,django"/></td>
 <td><img src="https://skillicons.dev/icons?i=postman"/></td>
 </table>
 
@@ -172,7 +172,7 @@
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,py,dart,js,ts"/></td>
-<td><img src="https://skillicons.dev/icons?i=python,flask,fastapi,pug"/></td>
+<td><img src="https://skillicons.dev/icons?i=python,flask,fastapi,pug,django"/></td>
 <td><img src="https://skillicons.dev/icons?i=gitlab,redux,redis"/></td>
 </tr>
 </table>
