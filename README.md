@@ -6,8 +6,8 @@
 
 ## :relaxed:I'm a student at PES University
   - I'm looking to collaborate with other content creators
-  - 2023 Goal: Be a backend developer :persevere:
-  - Learning Flask, pandas, Web3, animation and next-auth with mongoose.
+  - 2024 Goal: Be a DevOps Expert
+  - Practicing Machine Learning and DevOps
 
     
 ### good news
