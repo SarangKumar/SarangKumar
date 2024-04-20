@@ -8,6 +8,7 @@
   - I'm looking to collaborate with other content creators
   - 2024 Goal: Be a DevOps Expert
   - Practicing Machine Learning and DevOps
+  - And `docker`
 
     
 ### good news
